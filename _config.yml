@@ -1,4 +1,5 @@
-title: Dave's Site
+title: David Georgen
+description: A simple personal page
 url: "https://dgeorgen.github.io/"
 baseurl: "/"
 theme: jekyll-theme-cayman
