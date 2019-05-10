@@ -1,2 +1,5 @@
+title: Dave's Site
+url: "https://dgeorgen.github.io/"
+baseurl: "/"
 theme: jekyll-theme-cayman
 markdown: kramdown
